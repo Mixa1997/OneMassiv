@@ -1,0 +1,15 @@
+E:\Работы VS\OneMassiv\obj\Debug\OneMassiv.csprojAssemblyReference.cache
+E:\Работы VS\OneMassiv\obj\Debug\MainWindow.g.cs
+E:\Работы VS\OneMassiv\obj\Debug\App.g.cs
+E:\Работы VS\OneMassiv\obj\Debug\OneMassiv_MarkupCompile.cache
+E:\Работы VS\OneMassiv\obj\Debug\OneMassiv_MarkupCompile.lref
+E:\Работы VS\OneMassiv\bin\Debug\OneMassiv.exe.config
+E:\Работы VS\OneMassiv\bin\Debug\OneMassiv.exe
+E:\Работы VS\OneMassiv\bin\Debug\OneMassiv.pdb
+E:\Работы VS\OneMassiv\obj\Debug\MainWindow.baml
+E:\Работы VS\OneMassiv\obj\Debug\OneMassiv.g.resources
+E:\Работы VS\OneMassiv\obj\Debug\OneMassiv.Properties.Resources.resources
+E:\Работы VS\OneMassiv\obj\Debug\OneMassiv.csproj.GenerateResource.cache
+E:\Работы VS\OneMassiv\obj\Debug\OneMassiv.csproj.CoreCompileInputs.cache
+E:\Работы VS\OneMassiv\obj\Debug\OneMassiv.exe
+E:\Работы VS\OneMassiv\obj\Debug\OneMassiv.pdb
